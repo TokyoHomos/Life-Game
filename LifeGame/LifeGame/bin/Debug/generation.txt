@@ -1,0 +1,17 @@
+
+
+Generation 1:
+011
+100
+001
+
+Generation 2:
+010
+001
+000
+
+Generation 3:
+000
+000
+000
+

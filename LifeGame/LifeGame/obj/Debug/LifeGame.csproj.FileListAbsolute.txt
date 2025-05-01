@@ -1,0 +1,7 @@
+D:\Visual Projects\LifeGame\LifeGame\bin\Debug\LifeGame.exe.config
+D:\Visual Projects\LifeGame\LifeGame\bin\Debug\LifeGame.exe
+D:\Visual Projects\LifeGame\LifeGame\bin\Debug\LifeGame.pdb
+D:\Visual Projects\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.AssemblyReference.cache
+D:\Visual Projects\LifeGame\LifeGame\obj\Debug\LifeGame.csproj.CoreCompileInputs.cache
+D:\Visual Projects\LifeGame\LifeGame\obj\Debug\LifeGame.exe
+D:\Visual Projects\LifeGame\LifeGame\obj\Debug\LifeGame.pdb
